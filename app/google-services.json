@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105171294157",
+    "project_id": "notes-pro-a98d8",
+    "storage_bucket": "notes-pro-a98d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105171294157:android:20d481588db0c832ac1684",
+        "android_client_info": {
+          "package_name": "easy.tuto.notespro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105171294157-lkrtl66m38rh5gh280agtlnqppncjc3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd1BRfwyXaXSWHAivu0EjUAoGZ88vx05M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105171294157-lkrtl66m38rh5gh280agtlnqppncjc3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
